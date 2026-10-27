@@ -6,19 +6,23 @@ Independent developer of free Mac apps, developer tools and 3D printing tools. P
 
 - [Beckon](https://danielyaa5.github.io/beckon/): ring your iPhone, iPad, AirPods or Apple Watch from the Mac menu bar, a desktop widget, a keyboard shortcut or Siri.
 - [Cloud Media Shrinker](https://danielyaa5.github.io/photo-review/): find what's filling iCloud Photos, then shrink big videos (keeping HDR) or clear what you don't need.
-- [Print Progress](https://danielyaa5.github.io/3d-printer-widget/): 3D printer progress and temperatures in Mac and iPhone widgets, for Bambu Lab, Klipper, OctoPrint, PrusaLink and more.
+- [Print Progress](https://danielyaa5.github.io/3d-printer-widget/): 3D printer progress and temperatures in Mac and iPhone widgets, for Bambu Lab, Klipper, Creality, OctoPrint, PrusaLink and more.
 - [TagTracker](https://danielyaa5.github.io/tagtracker/): explore your local AirTag location history on maps on your Mac.
 
 ## Developer tools
 
 - [puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown): interactive PlantUML diagrams in GitHub Markdown, from a command-line tool or a GitHub Action.
+- [bambu-headless](https://github.com/danielyaa5/bambu-headless): macOS CLI to inspect slices, manage printer storage, follow jobs, set bed temperature and start prints on a Bambu Lab H2D with Cloud/Handy enabled and Developer Mode off ([write-up](https://danielyakobian.com/blog/bambu-headless-cli.html)).
 - [qtfaststart2](https://github.com/danielyaa5/qtfaststart2): moves the metadata of MP4 and MOV files to the front so videos start playing sooner, without re-encoding. Pure Python.
+- [price-watch](https://github.com/danielyaa5/price-watch): self-hosted marketplace price watcher across Facebook Marketplace, eBay, OfferUp, Craigslist and retail stores, with rule-based spec matching and email/ntfy alerts.
 
 ## Other projects
 
-- [Buy or Rent](https://buy-or-rent-web.vercel.app/): compare the long-term numbers behind buying a home versus renting.
-- [H2D Custom Dashboard](https://danielyaa5.github.io/h2d-custom-dashboard/): local status monitoring and optional exhaust control for the Bambu Lab H2D.
-- [Gate Opener](https://danielyaa5.github.io/gate-opener-widget/): Mac and iPhone widgets for a Smart Life gate opener.
+- [H2D Custom Dashboard](https://danielyaa5.github.io/h2d-custom-dashboard/): local status monitoring and optional Smart Life exhaust control for the Bambu Lab H2D.
+- [Buy or Rent](https://buy-or-rent-web.vercel.app/): compare the long-term numbers behind buying a home versus renting ([source](https://github.com/danielyaa5/buy-or-rent-web)).
+- [AI Trader](https://github.com/danielyaa5/ai-trader-writeup): architecture and engineering notes for an experimental multi-model trading system with deterministic Python risk controls.
+- [Gate Opener](https://danielyaa5.github.io/gate-opener-widget/): Mac and iPhone widgets for a Smart Life gate opener with camera verification.
 - [Netflix PiP Fixer](https://github.com/danielyaa5/netflix-pip-fixer): keeps Netflix picture-in-picture available while you browse.
+- [3D Print Shop](https://www.etsy.com/shop/UrbanTechGoods): functional 3D prints on Etsy.
 
 Build notes and posts are under [Writings](https://danielyakobian.com/blog/). Contact: [support@danielyakobian.com](mailto:support@danielyakobian.com) · [LinkedIn](https://www.linkedin.com/in/danielyakobian/)
