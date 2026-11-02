@@ -22,7 +22,7 @@ Independent developer of free Mac apps, developer tools and 3D printing tools. P
 - [Buy or Rent](https://buy-or-rent-web.vercel.app/): compare the long-term numbers behind buying a home versus renting ([source](https://github.com/danielyaa5/buy-or-rent-web)).
 - [AI Trader](https://github.com/danielyaa5/ai-trader-writeup): architecture and engineering notes for an experimental multi-model trading system with deterministic Python risk controls.
 - [Gate Opener](https://danielyaa5.github.io/gate-opener-widget/): Mac and iPhone widgets for a Smart Life gate opener with camera verification.
-- [Netflix PiP Fixer](https://github.com/danielyaa5/netflix-pip-fixer): keeps Netflix picture-in-picture available while you browse.
+- [Netflix PiP Fixer](https://chromewebstore.google.com/detail/netflix-pip-fixer/ceiiadpnmbplofcefdafhfidmocjgikp): Chrome extension that keeps Netflix picture-in-picture available while you browse ([source](https://github.com/danielyaa5/netflix-pip-fixer)).
 - [3D Print Shop](https://www.etsy.com/shop/UrbanTechGoods): functional 3D prints on Etsy.
 
 Build notes and posts are under [Writings](https://danielyakobian.com/blog/). Contact: [support@danielyakobian.com](mailto:support@danielyakobian.com) · [LinkedIn](https://www.linkedin.com/in/danielyakobian/)
